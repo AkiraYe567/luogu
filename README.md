@@ -1,2 +1,4 @@
 # luogu
-practice&amp;record
+Purpose: Practice and Record the code
+
+Algorithm vegetable chicken
